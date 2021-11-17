@@ -1,0 +1,4 @@
+﻿  WarstlerC_CSCE2004_Lab10.cpp
+C:\Users\clayw\source\repos\WarstlerC_CSCE2004_Lab10\WarstlerC_CSCE2004_Lab10\WarstlerC_CSCE2004_Lab10.cpp(27,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\clayw\source\repos\WarstlerC_CSCE2004_Lab10\WarstlerC_CSCE2004_Lab10\WarstlerC_CSCE2004_Lab10.cpp(34,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  WarstlerC_CSCE2004_Lab10.vcxproj -> C:\Users\clayw\source\repos\WarstlerC_CSCE2004_Lab10\x64\Debug\WarstlerC_CSCE2004_Lab10.exe
